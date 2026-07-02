@@ -71,7 +71,7 @@ Most application behavior is built around reusable update methods instead of dup
 ## Project Previwe
 <img width="1201" height="807" alt="image" src="https://github.com/user-attachments/assets/34421955-2afb-4edd-a006-f7cab74adf30" />
 
-<img width="1260" height="780" alt="image" src="https://github.com/user-attachments/assets/4aab26ca-246a-446a-8d72-9bb68d5b827b" />
+<img width="1228" height="756" alt="image" src="https://github.com/user-attachments/assets/b438ba11-2e61-4453-86dd-d0ea00799c7a" />
 
 
 ## 🧩 Implemented Features
