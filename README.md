@@ -68,7 +68,7 @@ Most application behavior is built around reusable update methods instead of dup
 
 ---
 
-## priject Previwe
+## Project Previwe
 <img width="1260" height="780" alt="image" src="https://github.com/user-attachments/assets/4aab26ca-246a-446a-8d72-9bb68d5b827b" />
 
 
